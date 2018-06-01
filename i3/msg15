@@ -1,0 +1,4 @@
+while true; do
+    sleep 45m;
+    i3-nagbar -m "Leave this computer!";
+done

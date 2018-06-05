@@ -3,6 +3,7 @@ alias lh="ls -lh"
 alias l="ls"
 alias ll="ls -lh"
 alias espeak="espeak -v en-sc"
+alias emacs="emacs -nw"
 export HISTFILESIZE=10000
 export HISTSIZE=10000
 
